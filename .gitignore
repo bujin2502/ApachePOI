@@ -1,0 +1,22 @@
+# Maven
+/target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IntelliJ IDEA / VS Code
+.idea/
+*.iml
+.vscode/
+
+# Datoteke koje generiraju programi (nastaju pokretanjem)
+src/main/java/com/zpracic/excel/ocjene.xlsx
+src/main/java/com/zpracic/word/studenti.docx
+src/main/java/com/zpracic/word/obavijest_*.docx
+
+# OS
+.DS_Store
+Thumbs.db
